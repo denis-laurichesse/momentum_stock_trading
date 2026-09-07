@@ -1,0 +1,401 @@
+symbol,sector,currency
+ASML.AS,Information Technology,EUR
+SIE.DE,Industrials,EUR
+SAP.DE,Information Technology,EUR
+SAN.MC,Financials,EUR
+TTE.PA,Energy,EUR
+ALV.DE,Financials,EUR
+SU.PA,Industrials,EUR
+BBVA.MC,Financials,EUR
+NOVO-B.CO,Health Care,DKK
+UCG.MI,Financials,EUR
+IBE.MC,Utilities,EUR
+SAF.PA,Industrials,EUR
+AIR.PA,Industrials,EUR
+ENR.DE,Industrials,EUR
+MC.PA,Consumer Discretionary,EUR
+AI.PA,Materials,EUR
+BNP.PA,Financials,EUR
+ISP.MI,Financials,EUR
+DTE.DE,Communication,EUR
+OR.PA,Consumer Staples,EUR
+INGA.AS,Financials,EUR
+SAN.PA,Health Care,EUR
+CS.PA,Financials,EUR
+IFX.DE,Information Technology,EUR
+ENEL.MI,Utilities,EUR
+ABI.BR,Consumer Staples,EUR
+INVE-B.ST,Financials,SEK
+MUV2.DE,Financials,EUR
+DBK.DE,Financials,EUR
+DG.PA,Industrials,EUR
+ITX.MC,Consumer Discretionary,EUR
+NDA-FI.HE,Financials,EUR
+ARGX.BR,Health Care,EUR
+GLE.PA,Financials,EUR
+RMS.PA,Consumer Discretionary,EUR
+DB1.DE,Financials,EUR
+DHL.DE,Industrials,EUR
+RHM.DE,Industrials,EUR
+EL.PA,Health Care,EUR
+VOLV-B.ST,Industrials,SEK
+ENI.MI,Energy,EUR
+G.MI,Financials,EUR
+BAYN.DE,Health Care,EUR
+ENGI.PA,Utilities,EUR
+BAS.DE,Materials,EUR
+PRX.AS,Consumer Discretionary,EUR
+NOKIA.HE,Information Technology,EUR
+ATCO-A.ST,Industrials,SEK
+CABK.MC,Financials,EUR
+RACE.MI,Consumer Discretionary,EUR
+BN.PA,Consumer Staples,EUR
+EOAN.DE,Utilities,EUR
+ASM.AS,Information Technology,EUR
+SGO.PA,Industrials,EUR
+RWE.DE,Utilities,EUR
+EBS.VI,Financials,EUR
+SAND.ST,Industrials,SEK
+LR.PA,Industrials,EUR
+DSV.CO,Industrials,DKK
+PRY.MI,Industrials,EUR
+MBG.DE,Consumer Discretionary,EUR
+EQNR.OL,Energy,NOK
+DANSKE.CO,Financials,DKK
+ASSA-B.ST,Industrials,SEK
+ADYEN.AS,Financials,EUR
+SEB-A.ST,Financials,SEK
+REP.MC,Energy,EUR
+SWED-A.ST,Financials,SEK
+ORA.PA,Communication,EUR
+KBC.BR,Financials,EUR
+STMMI.MI,Information Technology,EUR
+MT.AS,Materials,EUR
+VWS.CO,Industrials,DKK
+AD.AS,Consumer Staples,EUR
+UCB.BR,Health Care,EUR
+ADS.DE,Consumer Discretionary,EUR
+ABN.AS,Financials,EUR
+BMPS.MI,Financials,EUR
+ERIC-B.ST,Information Technology,SEK
+DNB.OL,Financials,NOK
+FER.MC,Industrials,EUR
+EQT.ST,Financials,SEK
+DTG.DE,Industrials,EUR
+SAMPO.HE,Financials,EUR
+AMS.MC,Consumer Discretionary,EUR
+ML.PA,Consumer Discretionary,EUR
+PUB.PA,Communication,EUR
+HO.PA,Industrials,EUR
+PKO.WA,Financials,PLN
+A5G.IR,Financials,EUR
+VIE.PA,Utilities,EUR
+BPE.MI,Financials,EUR
+NSIS-B.CO,Materials,DKK
+ACS.MC,Industrials,EUR
+PKN.WA,Energy,PLN
+SHB-A.ST,Financials,SEK
+ACA.PA,Financials,EUR
+HEI.DE,Materials,EUR
+HEIA.AS,Consumer Staples,EUR
+KNEBV.HE,Industrials,EUR
+BMW.DE,Consumer Discretionary,EUR
+NN.AS,Financials,EUR
+LDO.MI,Industrials,EUR
+MTX.DE,Industrials,EUR
+CBK.DE,Financials,EUR
+AENA.MC,Industrials,EUR
+HEXA-B.ST,Information Technology,SEK
+RYA.IR,Industrials,EUR
+PHIA.AS,Health Care,EUR
+FRE.DE,Health Care,EUR
+MRK.DE,Health Care,EUR
+CAP.PA,Information Technology,EUR
+GMAB.CO,Health Care,DKK
+SAAB-B.ST,Industrials,SEK
+SAB.MC,Financials,EUR
+BAMI.MI,Financials,EUR
+BIRG.IR,Financials,EUR
+KER.PA,Consumer Discretionary,EUR
+DSY.PA,Information Technology,EUR
+WKL.AS,Industrials,EUR
+UMG.AS,Communication,EUR
+VOW3.DE,Consumer Discretionary,EUR
+KPN.AS,Communication,EUR
+KRX.IR,Industrials,EUR
+HNR1.DE,Financials,EUR
+EPI-A.ST,Industrials,SEK
+SHL.DE,Health Care,EUR
+ALFA.ST,Industrials,SEK
+FBK.MI,Financials,EUR
+VNA.DE,Real Estate,EUR
+ESSITY-B.ST,Consumer Staples,SEK
+BESI.AS,Information Technology,EUR
+BOL.ST,Materials,SEK
+EDP.LS,Utilities,EUR
+TRN.MI,Utilities,EUR
+NESTE.HE,Energy,EUR
+BG.VI,Financials,EUR
+TEF.MC,Communication,EUR
+WRT1V.HE,Industrials,EUR
+ELE.MC,Utilities,EUR
+KRZ.IR,Consumer Staples,EUR
+TIT.MI,Communication,EUR
+KOG.OL,Industrials,NOK
+UPM.HE,Materials,EUR
+ENX.PA,Financials,EUR
+CLNX.MC,Communication,EUR
+SY1.DE,Materials,EUR
+RI.PA,Consumer Staples,EUR
+PST.MI,Financials,EUR
+EN.PA,Industrials,EUR
+AGS.BR,Financials,EUR
+HEN3.DE,Consumer Staples,EUR
+SRG.MI,Utilities,EUR
+KGH.WA,Materials,PLN
+METSO.HE,Industrials,EUR
+NHY.OL,Materials,NOK
+UNI.MI,Financials,EUR
+PEO.WA,Financials,PLN
+CARL-B.CO,Consumer Staples,DKK
+NTGY.MC,Utilities,EUR
+ASRNL.AS,Financials,EUR
+FGR.PA,Industrials,EUR
+BKT.MC,Financials,EUR
+AKRBP.OL,Energy,NOK
+CA.PA,Consumer Staples,EUR
+OMV.VI,Energy,EUR
+MONC.MI,Consumer Discretionary,EUR
+BCP.LS,Financials,EUR
+AKZA.AS,Materials,EUR
+ALE.WA,Consumer Discretionary,PLN
+SOBI.ST,Health Care,SEK
+G1A.DE,Industrials,EUR
+BVI.PA,Industrials,EUR
+EVO.ST,Consumer Discretionary,SEK
+PZU.WA,Financials,PLN
+MAERSK-B.CO,Industrials,DKK
+STLAM.MI,Consumer Discretionary,EUR
+FORTUM.HE,Utilities,EUR
+COLO-B.CO,Health Care,DKK
+AC.PA,Consumer Discretionary,EUR
+TELIA.ST,Communication,SEK
+ORNBV.HE,Health Care,EUR
+ORSTED.CO,Utilities,DKK
+MICC.AS,Consumer Staples,EUR
+GALP.LS,Energy,EUR
+RBI.VI,Financials,EUR
+INDU-C.ST,Financials,SEK
+PNDORA.CO,Consumer Discretionary,DKK
+TEL.OL,Communication,NOK
+SKA-B.ST,Industrials,SEK
+TEL2-B.ST,Communication,SEK
+ERF.PA,Health Care,EUR
+MOWI.OL,Consumer Staples,NOK
+SKF-B.ST,Industrials,SEK
+CON.DE,Consumer Discretionary,EUR
+RXL.PA,Industrials,EUR
+STB.OL,Financials,NOK
+TREL-B.ST,Industrials,SEK
+GTT.PA,Energy,EUR
+HEIO.AS,Consumer Staples,EUR
+QIA.DE,Health Care,EUR
+FME.DE,Health Care,EUR
+TEN.MI,Energy,EUR
+BNR.DE,Industrials,EUR
+TLX.DE,Financials,EUR
+SPIE.PA,Industrials,EUR
+ADDT-B.ST,Industrials,SEK
+HOT.DE,Industrials,EUR
+HM-B.ST,Consumer Discretionary,SEK
+EXO.AS,Financials,EUR
+EDEN.PA,Financials,EUR
+DHER.DE,Consumer Discretionary,EUR
+EBP.WA,Financials,PLN
+SUBC.OL,Energy,NOK
+BEI.DE,Consumer Staples,EUR
+NKT.CO,Industrials,DKK
+LIFCO-B.ST,Industrials,SEK
+SECU-B.ST,Industrials,SEK
+TKA.DE,Materials,EUR
+YAR.OL,Materials,NOK
+ELI.BR,Utilities,EUR
+ABVX.PA,Health Care,EUR
+ORK.OL,Consumer Staples,NOK
+TRYG.CO,Financials,DKK
+KBX.DE,Industrials,EUR
+KCR.HE,Industrials,EUR
+ALSYDB.CO,Financials,DKK
+LTMC.MI,Consumer Discretionary,EUR
+SCA-B.ST,Materials,SEK
+IPN.PA,Health Care,EUR
+KESKOB.HE,Consumer Staples,EUR
+RILBA.CO,Financials,DKK
+ACKB.BR,Industrials,EUR
+IDR.MC,Information Technology,EUR
+LPP.WA,Consumer Discretionary,PLN
+SPM.MI,Energy,EUR
+STERV.HE,Materials,EUR
+JYSK.CO,Financials,DKK
+FRO.OL,Energy,NOK
+SRT3.DE,Health Care,EUR
+G24.DE,Communication,EUR
+RNO.PA,Consumer Discretionary,EUR
+SSAB-B.ST,Materials,SEK
+INDT.ST,Industrials,SEK
+ZAL.DE,Consumer Discretionary,EUR
+REC.MI,Health Care,EUR
+AMUN.PA,Financials,EUR
+IMCD.AS,Industrials,EUR
+SYENS.BR,Materials,EUR
+ALO.PA,Industrials,EUR
+SAVE.ST,Financials,SEK
+GBLB.BR,Financials,EUR
+NEX.PA,Industrials,EUR
+IG.MI,Utilities,EUR
+DIM.PA,Health Care,EUR
+ELISA.HE,Communication,EUR
+GET.PA,Industrials,EUR
+NIBE-B.ST,Industrials,SEK
+ISS.CO,Industrials,DKK
+LOTB.BR,Consumer Staples,EUR
+AM.PA,Industrials,EUR
+SCR.PA,Financials,EUR
+ANDR.VI,Industrials,EUR
+EVK.DE,Materials,EUR
+BMED.MI,Financials,EUR
+GJF.OL,Financials,NOK
+JMT.LS,Consumer Staples,EUR
+VOE.VI,Materials,EUR
+BEIJ-B.ST,Industrials,SEK
+ANA.MC,Utilities,EUR
+SW.PA,Consumer Discretionary,EUR
+HAG.DE,Industrials,EUR
+SB1NO.OL,Financials,NOK
+P911.DE,Consumer Discretionary,EUR
+UMI.BR,Materials,EUR
+SBMO.AS,Energy,EUR
+GETI-B.ST,Health Care,SEK
+LHA.DE,Industrials,EUR
+PAH3.DE,Consumer Discretionary,EUR
+AZA.ST,Financials,SEK
+NDA.DE,Materials,EUR
+NDX1.DE,Industrials,EUR
+CAST.ST,Real Estate,SEK
+RED.MC,Utilities,EUR
+NEM.DE,Information Technology,EUR
+EDPR.LS,Utilities,EUR
+DIE.BR,Consumer Discretionary,EUR
+TPRO.MI,Information Technology,EUR
+MBK.WA,Financials,PLN
+AKE.PA,Materials,EUR
+VALMT.HE,Industrials,EUR
+VAR.OL,Energy,NOK
+LUND-B.ST,Financials,SEK
+RAND.AS,Industrials,EUR
+SOF.BR,Financials,EUR
+UNI.MC,Financials,EUR
+AYV.PA,Industrials,EUR
+TE.PA,Energy,EUR
+GL9.IR,Consumer Staples,EUR
+AALB.AS,Industrials,EUR
+MYCR.ST,Information Technology,SEK
+ELIS.PA,Industrials,EUR
+AZM.MI,Financials,EUR
+ZAB.WA,Consumer Staples,PLN
+LEG.DE,Real Estate,EUR
+MAP.MC,Financials,EUR
+VER.VI,Utilities,EUR
+AIXA.DE,Information Technology,EUR
+SECT-B.ST,Health Care,SEK
+DNP.WA,Consumer Staples,PLN
+INPST.AS,Industrials,EUR
+SALM.OL,Consumer Staples,NOK
+VEND.OL,Communication,NOK
+ENG.MC,Utilities,EUR
+FLS.CO,Industrials,DKK
+BGN.MI,Financials,EUR
+TUB.BR,Health Care,EUR
+A2A.MI,Utilities,EUR
+R3NK.DE,Industrials,EUR
+TEP.PA,Industrials,EUR
+LAGR-B.ST,Information Technology,SEK
+ATS.VI,Information Technology,EUR
+BIM.PA,Health Care,EUR
+ALK-B.CO,Health Care,DKK
+MANTA.HE,Financials,EUR
+DEMANT.CO,Health Care,DKK
+CDR.WA,Communication,PLN
+AKER.OL,Industrials,NOK
+KBCA.BR,Financials,EUR
+BFT.WA,Industrials,PLN
+BZU.MI,Materials,EUR
+VK.PA,Energy,EUR
+EVD.DE,Communication,EUR
+ING.WA,Financials,PLN
+AAK.ST,Consumer Staples,SEK
+SAGA-B.ST,Real Estate,SEK
+RAA.DE,Industrials,EUR
+CPR.MI,Consumer Staples,EUR
+ARCAD.AS,Industrials,EUR
+LOOMIS.ST,Industrials,SEK
+ACP.WA,Information Technology,PLN
+SOI.PA,Information Technology,EUR
+HUH1V.HE,Materials,EUR
+KGX.DE,Industrials,EUR
+FTK.DE,Financials,EUR
+HER.MI,Utilities,EUR
+BALD-B.ST,Real Estate,SEK
+PIRC.MI,Consumer Discretionary,EUR
+IP.MI,Industrials,EUR
+BC8.DE,Information Technology,EUR
+FNTN.DE,Communication,EUR
+BC.MI,Consumer Discretionary,EUR
+GRF.MC,Health Care,EUR
+TUI1.DE,Consumer Discretionary,EUR
+AG1.DE,Consumer Discretionary,EUR
+RUI.PA,Utilities,EUR
+FR.PA,Consumer Discretionary,EUR
+ACX.MC,Materials,EUR
+MIL.WA,Financials,PLN
+REY.MI,Information Technology,EUR
+BAMNB.AS,Industrials,EUR
+ADP.PA,Industrials,EUR
+NEXI.MI,Financials,EUR
+BOL.PA,Energy,EUR
+TOM.OL,Industrials,NOK
+DLG.MI,Consumer Discretionary,EUR
+SDF.DE,Materials,EUR
+SBNOR.OL,Financials,NOK
+VPK.AS,Energy,EUR
+IVG.MI,Industrials,EUR
+CSG.AS,Industrials,EUR
+FDJU.PA,Consumer Discretionary,EUR
+LATO-B.ST,Industrials,SEK
+TEG.DE,Real Estate,EUR
+RBREW.CO,Consumer Staples,DKK
+GBF.DE,Industrials,EUR
+VIS.MC,Consumer Staples,EUR
+SWEC-B.ST,Industrials,SEK
+NOD.OL,Information Technology,NOK
+TGS.OL,Energy,NOK
+PUM.DE,Consumer Discretionary,EUR
+SCYR.MC,Industrials,EUR
+ZEAL.CO,Health Care,DKK
+ROCK-B.CO,Industrials,DKK
+HOLM-B.ST,Materials,SEK
+WIE.VI,Materials,EUR
+SOP.PA,Information Technology,EUR
+PUIG.MC,Consumer Staples,EUR
+HIAB.HE,Industrials,EUR
+KMAR.OL,Industrials,NOK
+FRA.DE,Industrials,EUR
+AXFO.ST,Consumer Staples,SEK
+TPE.WA,Utilities,PLN
+KEMIRA.HE,Materials,EUR
+KTY.WA,Materials,PLN
+LIGHT.AS,Industrials,EUR
+THULE.ST,Consumer Discretionary,SEK
+AMV0.DE,Consumer Discretionary,EUR
+WIHL.ST,Real Estate,SEK
+SESG.PA,Communication,EUR
